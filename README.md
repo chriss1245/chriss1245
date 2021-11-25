@@ -1,6 +1,6 @@
 <div class="header">
-    <img width="238" alt="UC3M" src="https://user-images.githubusercontent.com/58918297/143498752-5a0bc15b-b261-45a8-9af5-60087ba0db45.png">
-    <img width="200" src="https://user-images.githubusercontent.com/58918297/143498748-90b4b6d4-a34d-46fa-95a0-d52f064e16ff.jpg">
+    <a href="https://github.com/chriss1245/uc3m"><img width="238" alt="UC3M" src="https://user-images.githubusercontent.com/58918297/143498752-5a0bc15b-b261-45a8-9af5-60087ba0db45.png"></a>
+    <a href="https://github.com/chriss1245/42madrid"><img width="200" src="https://user-images.githubusercontent.com/58918297/143498748-90b4b6d4-a34d-46fa-95a0-d52f064e16ff.jpg"></a>
 </div class="header">
 
 ### Christopher 👋
@@ -11,8 +11,7 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriss1245&theme=dark)](https://github.com/chriss1245)-->
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=chriss1245&count_private=true&show_icons=true&theme=dark)](https://github.com/chriss1245)
-
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=chriss1245&count_private=true&show_icons=true&theme=dark">
 
 ## Top projects
 | **Name** | **Description**|
