@@ -15,12 +15,12 @@
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=chriss1245&count_private=true&show_icons=true&theme=dark">
 
-## Top projects
-| **Name** | **Description**|
-|----------|----------------|
-|[UC3M](https://github.com/chriss1245/uc3m)| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chriss1245&repo=uc3m&theme=vue-dark)](https://github.com/chriss1245/uc3m)|
-|[42 Madrid](https://github.com/chriss1245/42madrid)| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chriss1245&repo=42madrid&theme=vue-dark)](https://github.com/chriss1245/42madrid)|
-| [Proyecto Gamer](https://github.com/chriss1245/proyecto_gamer) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chriss1245&repo=proyecto_gamer&theme=vue-dark)](https://github.com/chriss1245/proyecto_gamer)|
+
+|**Top repositories** 🏆|
+|----------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chriss1245&repo=uc3m&theme=vue-dark)](https://github.com/chriss1245/uc3m)|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chriss1245&repo=42madrid&theme=vue-dark)](https://github.com/chriss1245/42madrid)|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chriss1245&repo=proyecto_gamer&theme=vue-dark)](https://github.com/chriss1245/proyecto_gamer)|
 <!--
 |[Face Recognizer](https://github.com/chriss1245/face-recognizer_with_fda_pca_knn)| We combined pca, fisher discriminant and knn to make a classifier that recognizes people. We achived an accuracy of more than 85 percent!|
 |[Spanish Dream Team](https://github.com/chriss1245/SpanishDreamTeam)| We developed a data mining project using data of the spanish league of soccer. We tried to create the best team based on the results we got from the stats of the teams.|
