@@ -11,8 +11,6 @@
 - I am a student in the 42 School
 - I love to learn
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriss1245&theme=dark)](https://github.com/chriss1245)-->
-
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=chriss1245&count_private=true&show_icons=true&theme=dark">
 
 
